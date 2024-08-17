@@ -33,3 +33,5 @@
 [Dicas e códigos para Git e GitHub](https://github.com/Lelebertoldi/Codigos_Git)
 
 [Capsule Render - Cabeçalho para GitHub](https://github.com/Lelebertoldi/capsule-render)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:6A5ACD,100:800080&height=120&section=footer"/>
