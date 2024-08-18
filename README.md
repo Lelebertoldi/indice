@@ -18,9 +18,9 @@
 
 [Minhas aulas da faculdade Unifael - Ciência de Dados](https://github.com/Lelebertoldi/aulas_Unifael)
 
-[Minhas aulas do curso DIO](https://github.com/Lelebertoldi/Aulas_DIO)
-
 [Minhas aulas do curso ADA - Santander Coders 2024.1 | Engenharia de Dados - Turma 1181 (privado)](https://github.com/Lelebertoldi/Aulas_ADA)
+
+[Minhas aulas do curso DIO](https://github.com/Lelebertoldi/Aulas_DIO)
 
 [Trilha Python - Curso DIO](https://github.com/Lelebertoldi/trilha-python-dio)
 
