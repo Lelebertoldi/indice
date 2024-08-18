@@ -16,6 +16,8 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&color=0:00BFFF,50:6A5ACD,100:800080&text=Aulas&fontSize=40&height=100&section=header"/>
 
+[Minhas aulas da faculdade Unifael - Ciência de Dados](https://github.com/Lelebertoldi/aulas_Unifael)
+
 [Minhas aulas salvas do curso DIO](https://github.com/Lelebertoldi/Aulas_DIO)
 
 [Aulas do curso ADA - Santander Coders 2024.1 | Engenharia de Dados - Turma 1181 (privado)](https://github.com/Lelebertoldi/Aulas_ADA)
