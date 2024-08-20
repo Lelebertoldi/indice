@@ -39,8 +39,6 @@
 
 [Capsule Render - Cabeçalho para GitHub](https://github.com/Lelebertoldi/capsule-render)
 
-[Meus Documentos (privado)](https://github.com/Lelebertoldi/documentos/tree/main)
-
-[Minhas receitas de amigurumi](https://github.com/Lelebertoldi/amigurumi)
+[Meu Índice Pessoal (privado)](https://github.com/Lelebertoldi/pessoal/blob/main/README.md)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:6A5ACD,100:800080&height=120&section=footer"/>
