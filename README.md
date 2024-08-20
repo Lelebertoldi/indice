@@ -38,7 +38,8 @@
 
 ## [Capsule Render - Cabeçalho para GitHub](https://github.com/Lelebertoldi/capsule-render)
 
-## [Meu Índice Pessoal (privado)](https://github.com/Lelebertoldi/pessoal/blob/main/README.md)
+## [Meus Certificados](https://github.com/Lelebertoldi/certificados/blob/main/README.md)
 
+## [Meu Índice Pessoal (privado)](https://github.com/Lelebertoldi/pessoal/blob/main/README.md)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:6A5ACD,100:800080&height=120&section=footer"/>
