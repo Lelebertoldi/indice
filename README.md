@@ -16,7 +16,10 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&color=0:00BFFF,50:6A5ACD,100:800080&text=Aulas&fontSize=40&height=100&section=header"/>
 
-[Minhas aulas da faculdade Unifael - Ciência de Dados](https://github.com/Lelebertoldi/aulas_Unifael)
+[Minhas aulas da faculdade Estácio - Bacharelado em Ciências Biológicas
+](https://github.com/Lelebertoldi/aulas_biologia)
+
+[Minhas aulas da faculdade Unifael - Superior de Tecnologia em Ciência de Dados](https://github.com/Lelebertoldi/aulas_Unifael)
 
 [Minhas aulas do curso ADA - Santander Coders 2024.1 | Engenharia de Dados - Turma 1181 (privado)](https://github.com/Lelebertoldi/Aulas_ADA)
 
@@ -37,5 +40,7 @@
 [Capsule Render - Cabeçalho para GitHub](https://github.com/Lelebertoldi/capsule-render)
 
 [Meus Documentos (privado)](https://github.com/Lelebertoldi/documentos/tree/main)
+
+[Minhas receitas de amigurumi](https://github.com/Lelebertoldi/amigurumi)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:6A5ACD,100:800080&height=120&section=footer"/>
