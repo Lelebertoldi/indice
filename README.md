@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&color=0:00BFFF,50:6A5ACD,100:800080&text=Meus%20Projetos&fontSize=40&height=100&section=header"/>
 
-## [Sistema Bancário com POO](https://github.com/Lelebertoldi/sistema_bancario/blob/main/projeto.py)
+## [Sistema Bancário](https://github.com/Lelebertoldi/sistema_bancario/blob/main/projeto.py)
 
 ## [Machine Learning com KNN sem o uso de bibliotecas](https://github.com/Lelebertoldi/ML_sem_bibliotecas/blob/main/projeto_modulo1_ADA.ipynb)
 
