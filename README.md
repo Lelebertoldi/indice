@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&color=0:00BFFF,50:6A5ACD,100:800080&text=Meus%20Projetos&fontSize=40&height=100&section=header"/>
 
-## [Registro de Vendas de Concessionárias](https://github.com/Lelebertoldi/registro_venda_veiculos_com_POO/blob/main/registro_venda_veiculos_com_POO.ipynb)
+## [Registro de Vendas de Concessionárias](https://github.com/Lelebertoldi/registro_venda_veiculos_com_POO/blob/main)
 
 ## [Sistema Bancário](https://github.com/Lelebertoldi/sistema_bancario/blob/main/projeto.py)
 
