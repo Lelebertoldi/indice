@@ -12,7 +12,7 @@
 
 ## [Exercícios de código do curso DIO - Desafios de Código](https://github.com/Lelebertoldi/desafios_de_codigo_DIO)
 
-## [Projeto de vídeo IA](https://github.com/Lelebertoldi/lab-natty-or-not/tree/main)
+## [Projeto de vídeo com IA](https://github.com/Lelebertoldi/lab-natty-or-not/tree/main)
 
 ---
 
