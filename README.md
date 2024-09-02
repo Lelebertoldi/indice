@@ -38,12 +38,12 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&color=0:00BFFF,50:6A5ACD,100:800080&text=Repositórios%20Úteis&fontSize=40&height=100&section=header"/>
 
+## [Livros em PDF](https://github.com/Lelebertoldi/livros)
+
 ## [Dicas e códigos para Git e GitHub](https://github.com/Lelebertoldi/Codigos_Git)
 
 ## [Capsule Render - Cabeçalho para GitHub](https://github.com/Lelebertoldi/capsule-render)
 
 ## [Meus Certificados](https://github.com/Lelebertoldi/certificados/blob/main/README.md)
-
-## [Meu Índice Pessoal (privado)](https://github.com/Lelebertoldi/pessoal/blob/main/README.md)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:6A5ACD,100:800080&height=120&section=footer"/>
