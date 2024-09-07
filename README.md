@@ -16,6 +16,8 @@
 
 ## [Projeto de vídeo com IA](https://github.com/Lelebertoldi/lab-natty-or-not/tree/main)
 
+## [Biblioteca ascii para o python modificada por mim](https://github.com/Lelebertoldi/biblioteca_ascii/tree/main)
+
 ---
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&color=0:00BFFF,50:6A5ACD,100:800080&text=Aulas&fontSize=40&height=100&section=header"/>
