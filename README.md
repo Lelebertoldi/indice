@@ -32,8 +32,6 @@
 
 ## [Minhas aulas do curso DIO](https://github.com/Lelebertoldi/Aulas_DIO)
 
-## [Como contribuir com projeto open source - Curso DIO](https://github.com/Lelebertoldi/dio-lab-open-source)
-
 ---
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&color=0:00BFFF,50:6A5ACD,100:800080&text=Repositórios%20Úteis&fontSize=40&height=100&section=header"/>
