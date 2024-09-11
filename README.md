@@ -32,10 +32,6 @@
 
 ## [Minhas aulas do curso DIO](https://github.com/Lelebertoldi/Aulas_DIO)
 
-## [Trilha Python - Curso DIO](https://github.com/Lelebertoldi/trilha-python-dio)
-
-## [Banco de dados relacional - Curso DIO](https://github.com/Lelebertoldi/dio-bd-relacional)
-
 ## [Como contribuir com projeto open source - Curso DIO](https://github.com/Lelebertoldi/dio-lab-open-source)
 
 ---
