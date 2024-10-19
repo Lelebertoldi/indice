@@ -2,6 +2,8 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&color=0:00BFFF,50:6A5ACD,100:800080&text=Meus%20Projetos&fontSize=40&height=100&section=header"/>
 
+## [ETL de API para extração de dados das taxas de juros de cartões de crédito](https://github.com/Lelebertoldi/api_juros_cartoes/tree/main)
+
 ## [Dataquality para análise de arquivos CSV](https://github.com/Lelebertoldi/dataquality)
 
 ## [Clínica Pet - Cadastro / Triagem / Avaliação Médica / Arquivamento (CRUD)](https://github.com/Lelebertoldi/clinica_pet/tree/main)
